@@ -1,5 +1,5 @@
 # platform: osx-arm64
-# env_hash: 84c0564875f9a2dbf4fcdf4c182da1dd455745f0b5896cdcb1cc5162d0c12523
+# env_hash: e54732b86d1e5ee070c7e6acda28f3eca5abcba2b97c06776f56dd0c76db59f9
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-common-0.5.2-h27ca646_0.tar.bz2#a8171b57a7cb389382f8501866257595
 https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h3422bc3_4.tar.bz2#fc76ace7b94fb1f694988ab1b14dd248
@@ -88,6 +88,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/numba-0.53.1-py38ha636945_0.tar
 https://conda.anaconda.org/conda-forge/osx-arm64/pandas-1.2.4-py38h3777fb4_0.tar.bz2#5e75c10720d35383e34ce11d72430eed
 https://conda.anaconda.org/conda-forge/noarch/pip-21.1-pyhd8ed1ab_0.tar.bz2#5acc8aa0e57f31553f7bf9c22ca4d064
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
+https://conda.anaconda.org/conda-forge/osx-arm64/scipy-1.6.2-py38hd0c9ec0_0.tar.bz2#58974e3baa73901ab1c95dedffc5df24
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0

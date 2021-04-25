@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 431be5bad1edaa5bdd5af408735b53aeab8ed51c143d4708b96657a220ed3f74
+# env_hash: be353b4353c108c19d67a0355d5af5b6c0e2a662e6bc5be90a5066c05ec4a7ca
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -16,7 +16,7 @@ https://conda.anaconda.org/conda-forge/linux-64/aws-c-common-0.5.2-h7f98852_0.ta
 https://conda.anaconda.org/conda-forge/linux-64/brotli-1.0.9-h9c3ff4c_4.tar.bz2#f4f75dc7038aaeb6eaae16a5ef5350b3
 https://conda.anaconda.org/conda-forge/linux-64/bzip2-1.0.8-h7f98852_4.tar.bz2#a1fd65c7ccbf10880423d82bca54eb54
 https://conda.anaconda.org/conda-forge/linux-64/c-ares-1.17.1-h7f98852_1.tar.bz2#ed1dc233ed5e3eaa9bfbaac64d130c5e
-https://conda.anaconda.org/conda-forge/linux-64/cudatoolkit-10.2.89-h8f6ccaa_8.tar.bz2#fbfd851ae18bd2e0f84c9de59df7a514
+https://conda.anaconda.org/conda-forge/linux-64/cudatoolkit-11.1.1-h6406543_8.tar.bz2#4851e7f19b684e517dc8e6b5b375dda0
 https://conda.anaconda.org/conda-forge/linux-64/gflags-2.2.2-he1b5a44_1004.tar.bz2#cddaf2c63ea4a5901cf09524c490ecdc
 https://conda.anaconda.org/conda-forge/linux-64/libblas-3.9.0-6_mkl.tar.bz2#14d4aeb0a4d553291acf26d6b11317a4
 https://conda.anaconda.org/conda-forge/linux-64/libev-4.33-h516909a_1.tar.bz2#6f8720dff19e17ce5d48cfe7f3d2f0a3
@@ -92,7 +92,8 @@ https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py38h497a2fe_1001
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.4.7-py38ha5dfef3_0.tar.bz2#a8b014aba670157256dabdc885f71af4
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.0.1-hd8ed1ab_0.tar.bz2#50c48f1394fba9705a76163409924628
 https://conda.anaconda.org/conda-forge/linux-64/pandas-1.2.4-py38h1abd341_0.tar.bz2#91150ede50b13d34a03e9ef51b7b379f
-https://conda.anaconda.org/pytorch/linux-64/pytorch-1.8.1-py3.8_cuda10.2_cudnn7.6.5_0.tar.bz2#479251c1e696e919fbb8d6ca365d65f9
+https://conda.anaconda.org/pytorch/linux-64/pytorch-1.8.1-py3.8_cuda11.1_cudnn8.0.5_0.tar.bz2#15258d9830cd91dc5c78b154dcb36299
+https://conda.anaconda.org/conda-forge/linux-64/scipy-1.6.2-py38h7b17777_0.tar.bz2#e0be90ecf33b94ac3f407f1bf3c76de2
 https://conda.anaconda.org/conda-forge/linux-64/setuptools-49.6.0-py38h578d9bd_3.tar.bz2#59c561cd1be0db9cf1c83f7d7cc74f4d
 https://conda.anaconda.org/conda-forge/noarch/joblib-1.0.1-pyhd8ed1ab_0.tar.bz2#27d5ed1aaf2bbb5a0cc307a12d8e032f
 https://conda.anaconda.org/conda-forge/linux-64/numba-0.53.1-py38h0e12cce_0.tar.bz2#446d623019e922c161cee34948c1eb06
