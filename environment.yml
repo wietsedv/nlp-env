@@ -1,0 +1,19 @@
+channels:
+  - wietsedv
+  - pytorch
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - pip
+
+  - numpy
+  - numba
+  - pandas
+  - pytorch
+  - scipy
+  - tqdm
+
+  - datasets >=1.5
+  - tokenizers >=0.10
+  - transformers >=4.5
