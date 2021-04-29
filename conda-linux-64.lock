@@ -87,7 +87,7 @@ https://conda.anaconda.org/conda-forge/noarch/python-dateutil-2.8.1-py_0.tar.bz2
 https://conda.anaconda.org/conda-forge/linux-64/python-xxhash-2.0.2-py38h497a2fe_0.tar.bz2#27b37e3f79205080b573442445ed727b
 https://conda.anaconda.org/conda-forge/linux-64/regex-2021.4.4-py38h497a2fe_0.tar.bz2#fd8c69b8da2edc1dbdf6ff619257ee00
 https://conda.anaconda.org/conda-forge/linux-64/tokenizers-0.10.1-py38hb63a372_0.tar.bz2#ec2bc5d4f9d8c617e3b11e54bd606873
-https://conda.anaconda.org/conda-forge/linux-64/arrow-cpp-3.0.0-py38hd6878d3_11_cpu.tar.bz2#ffac313a84cf2f92eecacd4e890e3b25
+https://conda.anaconda.org/conda-forge/linux-64/arrow-cpp-4.0.0-py38hd6878d3_0_cpu.tar.bz2#e99ad14b0204d2d60958cd90ec82ea1d
 https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py38h497a2fe_1001.tar.bz2#56753dd777a6517b34966ddcb39af734
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.4.7-py38ha5dfef3_0.tar.bz2#a8b014aba670157256dabdc885f71af4
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.0.1-hd8ed1ab_0.tar.bz2#50c48f1394fba9705a76163409924628
@@ -100,7 +100,7 @@ https://conda.anaconda.org/conda-forge/linux-64/numba-0.53.1-py38h0e12cce_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
 https://conda.anaconda.org/conda-forge/noarch/pip-21.1-pyhd8ed1ab_0.tar.bz2#5acc8aa0e57f31553f7bf9c22ca4d064
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
-https://conda.anaconda.org/conda-forge/linux-64/pyarrow-3.0.0-py38hc9229eb_11_cpu.tar.bz2#5ef08f41e128e8a95db296db7761543d
+https://conda.anaconda.org/conda-forge/linux-64/pyarrow-4.0.0-py38hc9229eb_0_cpu.tar.bz2#f4882789bf136449ac9e15a7c3dcd917
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc

@@ -82,7 +82,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/cryptography-3.4.7-py38h3c0dae5
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.0.1-hd8ed1ab_0.tar.bz2#50c48f1394fba9705a76163409924628
 https://conda.anaconda.org/conda-forge/osx-arm64/numpy-1.20.2-py38hbf7bb01_0.tar.bz2#5716706607da93e6d46ea69e745debcd
 https://conda.anaconda.org/conda-forge/osx-arm64/setuptools-49.6.0-py38h10201cd_3.tar.bz2#304b63fdb07fb64d1be7c68ab8a4bf76
-https://conda.anaconda.org/conda-forge/osx-arm64/arrow-cpp-3.0.0-py38h6dfffbd_11_cpu.tar.bz2#a4f0e71d1281c882290b097caa770fac
+https://conda.anaconda.org/conda-forge/osx-arm64/arrow-cpp-4.0.0-py38h6dfffbd_0_cpu.tar.bz2#d70499435c7cc7fc1d8d200f27ee08cb
 https://conda.anaconda.org/conda-forge/noarch/joblib-1.0.1-pyhd8ed1ab_0.tar.bz2#27d5ed1aaf2bbb5a0cc307a12d8e032f
 https://conda.anaconda.org/conda-forge/osx-arm64/numba-0.53.1-py38ha636945_0.tar.bz2#41540e33403301fe79d6b5bbb2d2b94c
 https://conda.anaconda.org/conda-forge/osx-arm64/pandas-1.2.4-py38h3777fb4_0.tar.bz2#5e75c10720d35383e34ce11d72430eed
@@ -92,7 +92,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/scipy-1.6.3-py38hd0c9ec0_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
-https://conda.anaconda.org/conda-forge/osx-arm64/pyarrow-3.0.0-py38h5211c98_11_cpu.tar.bz2#65218561e68ca379830cf1376ae6a8c0
+https://conda.anaconda.org/conda-forge/osx-arm64/pyarrow-4.0.0-py38h5211c98_0_cpu.tar.bz2#3d2f3995aa77b3ff833087356e653809
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/huggingface_hub-0.0.8-pyhd8ed1ab_0.tar.bz2#7f39225fcbfd7f712c2d293748ff9661
 https://conda.anaconda.org/wietsedv/osx-arm64/pytorch-1.8.0-py38_0.tar.bz2#04b1e891fc087b14194819ecffa760a3
