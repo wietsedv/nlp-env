@@ -4,7 +4,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/wietsedv/nlp)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/wietsedv/nlp/latest)
 
-This is the basic [mamba](https://github.com/mamba-org/mamba) (== conda) environment with packages that I would need for any NLP related project. The lock files and [Docker image](https://hub.docker.com/r/wietsedv/nlp) are updated daily.
+This is the basic [mamba](https://github.com/mamba-org/mamba) (== conda) environment with packages that I would need for any NLP related project. The lock files and [Docker image](https://hub.docker.com/r/wietsedv/nlp) are updated weekly (or manually) with Github Actions.
 
 ## Usage
 
