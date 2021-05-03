@@ -10,6 +10,7 @@ dependencies:
   - numpy
   - numba
   - pandas
+  - pyyaml
   - pytorch >=1.8
   - scipy
   - tqdm
