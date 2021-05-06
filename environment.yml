@@ -10,6 +10,7 @@ dependencies:
   - numpy
   - numba
   - pandas
+  - pysoundfile
   - pyyaml
   - pytorch >=1.8
   - scipy
