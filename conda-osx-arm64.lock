@@ -1,5 +1,5 @@
 # platform: osx-arm64
-# env_hash: 7e4e4ac164dcdbdb7e32aed160e08b885d9a8276247fa80bcad52775512008bf
+# env_hash: 9602376ac42e2c47f1da9654aca56a195e37decd0e8d565782f152a8b002f725
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-common-0.5.11-h3422bc3_0.tar.bz2#a39bd305897c5c039522d58f4119cc33
 https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h3422bc3_4.tar.bz2#fc76ace7b94fb1f694988ab1b14dd248
@@ -145,6 +145,7 @@ https://conda.anaconda.org/conda-forge/noarch/keras-preprocessing-1.1.2-pyhd8ed1
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/osx-arm64/scikit-learn-0.24.2-py38h26428f7_0.tar.bz2#3ce096403e5395ccbbef057d92b800f8
+https://conda.anaconda.org/conda-forge/noarch/tensorboardx-2.2-pyhd8ed1ab_0.tar.bz2#867ee21baaa71eed3ccd01afea21543c
 https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656e83_0.tar.bz2#ede99bb6f017060400f03a8a29574524
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/osx-arm64/pyarrow-4.0.0-py38h5211c98_1_cpu.tar.bz2#cbb48813bca8ba796bee5e8033cbb57c

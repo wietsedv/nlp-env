@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: a8ff15b33f76436d85841661c728362fc1c3f27a1c894aed4f864e2f360cc1f4
+# env_hash: d1929eab722a2028cc8c78a4267c835017575fa58e89b4fb94922322a136075b
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -158,6 +158,7 @@ https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.ta
 https://conda.anaconda.org/conda-forge/linux-64/pyarrow-4.0.0-py38hc9229eb_1_cpu.tar.bz2#6fc8aefb088cfb898d201e75b9727381
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/linux-64/scikit-learn-0.24.2-py38hdc147b9_0.tar.bz2#d6f27b8338b41a31d52f05749712dc08
+https://conda.anaconda.org/conda-forge/noarch/tensorboardx-2.2-pyhd8ed1ab_0.tar.bz2#867ee21baaa71eed3ccd01afea21543c
 https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656e83_0.tar.bz2#ede99bb6f017060400f03a8a29574524
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
