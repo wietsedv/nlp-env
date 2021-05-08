@@ -15,6 +15,7 @@ dependencies:
   - pytorch >=1.8
   - scipy
   - scikit-learn
+  - tensorboardX
   - tensorflow >=2.4
   - tqdm
 
