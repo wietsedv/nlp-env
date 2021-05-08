@@ -14,6 +14,7 @@ dependencies:
   - pyyaml
   - pytorch >=1.8
   - scipy
+  - tensorflow >=2.4
   - tqdm
 
   - datasets >=1.5
