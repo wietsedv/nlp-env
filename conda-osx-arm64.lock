@@ -1,5 +1,5 @@
 # platform: osx-arm64
-# env_hash: 9602376ac42e2c47f1da9654aca56a195e37decd0e8d565782f152a8b002f725
+# env_hash: 466c45f40380926417c86c286495a9d04a2215dcea62c3e5a84ca2726b3f4c8f
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-common-0.5.11-h3422bc3_0.tar.bz2#a39bd305897c5c039522d58f4119cc33
 https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h3422bc3_4.tar.bz2#fc76ace7b94fb1f694988ab1b14dd248
@@ -142,6 +142,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/scipy-1.6.3-py38hd0c9ec0_0.tar.
 https://conda.anaconda.org/conda-forge/osx-arm64/dtw-python-1.1.10-py38hea4295b_0.tar.bz2#733f3d9badcab6d260a9d51ed32be0d8
 https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.tar.bz2#6bfc2b6ab5e47c4e57355e511fab4bfb
 https://conda.anaconda.org/conda-forge/noarch/keras-preprocessing-1.1.2-pyhd8ed1ab_0.tar.bz2#a79b00989a0d89791021902f37fe2f9e
+https://conda.anaconda.org/conda-forge/noarch/nltk-3.6.2-pyhd8ed1ab_0.tar.bz2#0ad3b96e69dd71262f0e08ac320020db
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/osx-arm64/scikit-learn-0.24.2-py38h26428f7_0.tar.bz2#3ce096403e5395ccbbef057d92b800f8

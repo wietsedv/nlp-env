@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: d1929eab722a2028cc8c78a4267c835017575fa58e89b4fb94922322a136075b
+# env_hash: 2dcfed4fc04df98e14f3f97bac14c35aba2fdf270ac92aa28b2fbff99869a3d2
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -155,6 +155,7 @@ https://conda.anaconda.org/conda-forge/linux-64/protobuf-3.15.8-py38h709712a_0.t
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/linux-64/fairseq-0.10.2-py38h51da96c_0.tar.bz2#18b139b9c3cf72525a1cb1fc8be428eb
 https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.tar.bz2#6bfc2b6ab5e47c4e57355e511fab4bfb
+https://conda.anaconda.org/conda-forge/noarch/nltk-3.6.2-pyhd8ed1ab_0.tar.bz2#0ad3b96e69dd71262f0e08ac320020db
 https://conda.anaconda.org/conda-forge/linux-64/pyarrow-4.0.0-py38hc9229eb_1_cpu.tar.bz2#6fc8aefb088cfb898d201e75b9727381
 https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
 https://conda.anaconda.org/conda-forge/linux-64/scikit-learn-0.24.2-py38hdc147b9_0.tar.bz2#d6f27b8338b41a31d52f05749712dc08
