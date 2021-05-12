@@ -17,6 +17,7 @@ dependencies:
   - scikit-learn
   - tensorflow >=2.4
   - tqdm
+  - wandb
 
   - datasets >=1.5
   - dtw-python >=1.1
