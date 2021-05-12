@@ -1,4 +1,5 @@
 channels:
+  - huggingface
   - wietsedv
   - pytorch
   - conda-forge
