@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 964ecf08fb630d7d74c2e31f10794634c58e8742d09fabfe426e98fd960538ef
+# env_hash: 3860cc325bb33edadfd501c946e774de0c18be33994e2785182c8d7536882e69
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -93,7 +93,7 @@ https://conda.anaconda.org/conda-forge/noarch/pycparser-2.20-pyh9f0ad1d_2.tar.bz
 https://conda.anaconda.org/conda-forge/noarch/pyjwt-2.1.0-pyhd8ed1ab_0.tar.bz2#c602e093a43beb74210362e983584666
 https://conda.anaconda.org/conda-forge/noarch/pyparsing-2.4.7-pyh9f0ad1d_0.tar.bz2#626c4f20d5bf06dcec9cf2eaa31725c7
 https://conda.anaconda.org/conda-forge/noarch/python-flatbuffers-1.12-pyhd8ed1ab_1.tar.bz2#4ddd8b8f7ba0c0fc50de3776b37fecce
-https://conda.anaconda.org/conda-forge/linux-64/python_abi-3.8-1_cp38.tar.bz2#8d05152d6fb3012b27a0e6fbcc14bea1
+https://conda.anaconda.org/huggingface/linux-64/python_abi-3.8-1_cp38.tar.bz2#8d05152d6fb3012b27a0e6fbcc14bea1
 https://conda.anaconda.org/conda-forge/noarch/pytz-2021.1-pyhd8ed1ab_0.tar.bz2#3af2e9424d5eb0063824a3f9b850d411
 https://conda.anaconda.org/conda-forge/noarch/six-1.16.0-pyh6c4a22f_0.tar.bz2#e5f25f8dbc060e9a8d912e432202afc2
 https://conda.anaconda.org/conda-forge/noarch/smmap-3.0.5-pyh44b312d_0.tar.bz2#3a8dc70789709aa315325d5df06fb7e4
@@ -135,7 +135,7 @@ https://conda.anaconda.org/conda-forge/linux-64/pyyaml-5.4.1-py38h497a2fe_0.tar.
 https://conda.anaconda.org/conda-forge/linux-64/regex-2021.4.4-py38h497a2fe_0.tar.bz2#fd8c69b8da2edc1dbdf6ff619257ee00
 https://conda.anaconda.org/conda-forge/noarch/rsa-4.7.2-pyh44b312d_0.tar.bz2#3452ab3790dbb1df9508b3fa4ea2f806
 https://conda.anaconda.org/conda-forge/linux-64/shortuuid-1.0.1-py38h578d9bd_4.tar.bz2#a1a094f0878cea884be83a52fc3e03d8
-https://conda.anaconda.org/conda-forge/linux-64/tokenizers-0.10.1-py38hb63a372_0.tar.bz2#ec2bc5d4f9d8c617e3b11e54bd606873
+https://conda.anaconda.org/huggingface/linux-64/tokenizers-0.10.2-py38_0.tar.bz2#7b899c67f895203d5fa92c6e1234d302
 https://conda.anaconda.org/conda-forge/noarch/typing-extensions-3.7.4.3-0.tar.bz2#36bdcdb4c2bf1efb987f2e9e80f4c9a6
 https://conda.anaconda.org/conda-forge/linux-64/wrapt-1.12.1-py38h497a2fe_3.tar.bz2#be33fd2a84c54b9b1c3b859bb29eaf40
 https://conda.anaconda.org/conda-forge/linux-64/arrow-cpp-4.0.0-py38ha12db41_1_cpu.tar.bz2#236acacff1679d90bf35bb0e02cd9d58
@@ -172,19 +172,19 @@ https://conda.anaconda.org/conda-forge/linux-64/fairseq-0.10.2-py38h51da96c_0.ta
 https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.tar.bz2#6bfc2b6ab5e47c4e57355e511fab4bfb
 https://conda.anaconda.org/conda-forge/noarch/nltk-3.6.2-pyhd8ed1ab_0.tar.bz2#0ad3b96e69dd71262f0e08ac320020db
 https://conda.anaconda.org/conda-forge/linux-64/pyarrow-4.0.0-py38hc9229eb_1_cpu.tar.bz2#6fc8aefb088cfb898d201e75b9727381
-https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
+https://conda.anaconda.org/huggingface/noarch/sacremoses-master-py_0.tar.bz2#86b4f7604d7338c1e2b59589b58d96ae
 https://conda.anaconda.org/conda-forge/linux-64/scikit-learn-0.24.2-py38hdc147b9_0.tar.bz2#d6f27b8338b41a31d52f05749712dc08
 https://conda.anaconda.org/conda-forge/noarch/tensorboardx-2.2-pyhd8ed1ab_0.tar.bz2#867ee21baaa71eed3ccd01afea21543c
 https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656e83_0.tar.bz2#ede99bb6f017060400f03a8a29574524
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/sentry-sdk-1.1.0-pyhd8ed1ab_0.tar.bz2#bc4ecb03f764db91c1788f0bea8a8cdb
-https://conda.anaconda.org/conda-forge/noarch/huggingface_hub-0.0.8-pyhd8ed1ab_0.tar.bz2#7f39225fcbfd7f712c2d293748ff9661
+https://conda.anaconda.org/huggingface/noarch/huggingface_hub-0.0.8-py_0.tar.bz2#732a860a5778e0e15dc8ae68288bc04a
 https://conda.anaconda.org/conda-forge/noarch/requests-oauthlib-1.3.0-pyh9f0ad1d_0.tar.bz2#acdcfb3267ef1a8e576e84480a5e259d
-https://conda.anaconda.org/conda-forge/noarch/transformers-4.5.1-pyhd8ed1ab_1.tar.bz2#a54ec7108accc4cd0b7a15c36b722a60
 https://conda.anaconda.org/conda-forge/noarch/wandb-0.10.30-pyhd8ed1ab_0.tar.bz2#6b0481201d97859a22d7b13ae0db271d
-https://conda.anaconda.org/wietsedv/noarch/datasets-1.6.2-py_0.tar.bz2#a6401cf96aec2c39ed804aa0a33b80d6
+https://conda.anaconda.org/huggingface/noarch/datasets-1.6.2-py_0.tar.bz2#45e06a0f37c4e55d0e214c08bdfe2538
 https://conda.anaconda.org/conda-forge/noarch/google-auth-oauthlib-0.4.1-py_2.tar.bz2#116611db5925f952312e4c1e799936e2
+https://conda.anaconda.org/huggingface/noarch/transformers-4.6.0-py_0.tar.bz2#12ac77077fa9f72a02a01c0237cc432c
 https://conda.anaconda.org/conda-forge/noarch/tensorboard-2.4.1-pyhd8ed1ab_0.tar.bz2#99eacca69ce81245813db90f4475cd4a
 https://conda.anaconda.org/conda-forge/linux-64/tensorflow-base-2.4.1-py38h83f5f1d_0.tar.bz2#5967057ae1008e019c01c926417a60b0
 https://conda.anaconda.org/conda-forge/linux-64/tensorflow-2.4.1-py38h578d9bd_0.tar.bz2#7aa48074457cdc87423c775524f98c75

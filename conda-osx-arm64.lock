@@ -1,5 +1,5 @@
 # platform: osx-arm64
-# env_hash: f8c8b70337415fcade9bb9a3371d2935f28f747dd33c3ceb07b9d75b3aee6185
+# env_hash: 7e8b9d00ea53b39cf9412a12e5242ac1720a2bbbb0a9d02c98138284748ba73b
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-common-0.5.11-h3422bc3_0.tar.bz2#a39bd305897c5c039522d58f4119cc33
 https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h3422bc3_4.tar.bz2#fc76ace7b94fb1f694988ab1b14dd248
@@ -159,7 +159,7 @@ https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.ta
 https://conda.anaconda.org/conda-forge/noarch/keras-preprocessing-1.1.2-pyhd8ed1ab_0.tar.bz2#a79b00989a0d89791021902f37fe2f9e
 https://conda.anaconda.org/conda-forge/noarch/nltk-3.6.2-pyhd8ed1ab_0.tar.bz2#0ad3b96e69dd71262f0e08ac320020db
 https://conda.anaconda.org/conda-forge/noarch/parquet-cpp-1.5.1-2.tar.bz2#79a5f78c42817594ae016a7896521a97
-https://conda.anaconda.org/conda-forge/noarch/sacremoses-0.0.43-pyh9f0ad1d_0.tar.bz2#68caa05c8471663d22361fb98c471fd7
+https://conda.anaconda.org/huggingface/noarch/sacremoses-master-py_0.tar.bz2#86b4f7604d7338c1e2b59589b58d96ae
 https://conda.anaconda.org/conda-forge/osx-arm64/scikit-learn-0.24.2-py38h26428f7_0.tar.bz2#3ce096403e5395ccbbef057d92b800f8
 https://conda.anaconda.org/conda-forge/noarch/tensorboardx-2.2-pyhd8ed1ab_0.tar.bz2#867ee21baaa71eed3ccd01afea21543c
 https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656e83_0.tar.bz2#ede99bb6f017060400f03a8a29574524
@@ -167,14 +167,14 @@ https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz
 https://conda.anaconda.org/conda-forge/osx-arm64/pyarrow-4.0.0-py38h5211c98_1_cpu.tar.bz2#cbb48813bca8ba796bee5e8033cbb57c
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/sentry-sdk-1.1.0-pyhd8ed1ab_0.tar.bz2#bc4ecb03f764db91c1788f0bea8a8cdb
-https://conda.anaconda.org/conda-forge/noarch/huggingface_hub-0.0.8-pyhd8ed1ab_0.tar.bz2#7f39225fcbfd7f712c2d293748ff9661
+https://conda.anaconda.org/huggingface/noarch/huggingface_hub-0.0.8-py_0.tar.bz2#732a860a5778e0e15dc8ae68288bc04a
 https://conda.anaconda.org/wietsedv/osx-arm64/pytorch-1.8.0-py38_0.tar.bz2#04b1e891fc087b14194819ecffa760a3
 https://conda.anaconda.org/conda-forge/noarch/requests-oauthlib-1.3.0-pyh9f0ad1d_0.tar.bz2#acdcfb3267ef1a8e576e84480a5e259d
-https://conda.anaconda.org/conda-forge/noarch/transformers-4.5.1-pyhd8ed1ab_1.tar.bz2#a54ec7108accc4cd0b7a15c36b722a60
 https://conda.anaconda.org/conda-forge/noarch/wandb-0.10.30-pyhd8ed1ab_0.tar.bz2#6b0481201d97859a22d7b13ae0db271d
-https://conda.anaconda.org/wietsedv/noarch/datasets-1.6.2-py_0.tar.bz2#a6401cf96aec2c39ed804aa0a33b80d6
+https://conda.anaconda.org/huggingface/noarch/datasets-1.6.2-py_0.tar.bz2#45e06a0f37c4e55d0e214c08bdfe2538
 https://conda.anaconda.org/conda-forge/osx-arm64/fairseq-0.10.2-py38h3777fb4_0.tar.bz2#c4e782086b9f2ddd7c8c364f2973c3f4
 https://conda.anaconda.org/conda-forge/noarch/google-auth-oauthlib-0.4.1-py_2.tar.bz2#116611db5925f952312e4c1e799936e2
+https://conda.anaconda.org/huggingface/noarch/transformers-4.6.0-py_0.tar.bz2#12ac77077fa9f72a02a01c0237cc432c
 https://conda.anaconda.org/conda-forge/noarch/tensorboard-2.4.1-pyhd8ed1ab_0.tar.bz2#99eacca69ce81245813db90f4475cd4a
 https://conda.anaconda.org/conda-forge/osx-arm64/tensorflow-base-2.4.1-py38h42c5233_0.tar.bz2#e53a60f24fa2054db905376f4da807d4
 https://conda.anaconda.org/conda-forge/osx-arm64/tensorflow-2.4.1-py38h150bfb4_0.tar.bz2#abe6c8a915709ff75a4d3d4ab84240f8
