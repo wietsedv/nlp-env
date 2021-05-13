@@ -20,4 +20,11 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           pip install conda-lock
-          ./update.sh
+          ./lock.sh
+          if git diff --exit-code; then
+              echo "no changes detected. not pusing new lock file"
+              exit 0
+          fi
+          git add .
+          git commit -m "update lock files [$(date --iso-8601)]"
+          git push origin main

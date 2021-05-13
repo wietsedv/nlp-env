@@ -1,0 +1,25 @@
+dependencies:
+  # Base
+  - numba
+  - pandas
+  - pyyaml
+  - scipy
+  - toml
+  - tqdm
+
+  # Audio
+  - dtw-python >=1.1
+  - pysoundfile >=0.10
+  # - sox >=14.4
+
+  # Frameworks
+  - datasets >=1.5
+  - fairseq >=0.10
+  - nltk >=3.6
+  - scikit-learn >=0.24
+  - tokenizers >=0.10
+  - transformers >=4.5
+
+  # Integration
+  # - wandb >=0.10
+  - tensorboardx >=2.2
