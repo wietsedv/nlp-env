@@ -1,5 +1,5 @@
 # platform: linux-64
-# env_hash: 4c5a080711edcaa53765cd1ebb2df2ed06cf4fd812be989530b80c0bac88ba6d
+# env_hash: d0534de16238faa7699600cbb65f3e69da2a740374a0e40e67f7013a4025ff86
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2#d7c89558ba9fa0495403155b64376d81
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2020.12.5-ha878542_0.tar.bz2#7eb5d4ffeee663caa1635cd67071bc1b
@@ -118,7 +118,7 @@ https://conda.anaconda.org/conda-forge/noarch/docker-pycreds-0.4.0-py_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/noarch/gitdb-4.0.7-pyhd8ed1ab_0.tar.bz2#12977b4cc317a6ee2939aedcb09a4898
 https://conda.anaconda.org/conda-forge/noarch/google-pasta-0.2.0-pyh8c360ce_0.tar.bz2#26e27d7d3d7fe2336b543dd8e0f12cbf
 https://conda.anaconda.org/conda-forge/linux-64/importlib-metadata-4.0.1-py38h578d9bd_0.tar.bz2#df6fae32b464e9fb5010c4784ce2efb0
-https://conda.anaconda.org/conda-forge/linux-64/importlib_resources-5.1.2-py38h578d9bd_0.tar.bz2#86e3d225a89a81d6859e76e1700c4496
+https://conda.anaconda.org/conda-forge/linux-64/importlib_resources-5.1.3-py38h578d9bd_0.tar.bz2#9b13f55d4664af41ccc8de93323689ed
 https://conda.anaconda.org/conda-forge/linux-64/llvmlite-0.36.0-py38h4630a5e_0.tar.bz2#a805cb9a530a6524f7f832cce981fa0e
 https://conda.anaconda.org/conda-forge/linux-64/multidict-5.1.0-py38h497a2fe_1.tar.bz2#144fb43891d7bef0e353fb160ddd39bd
 https://conda.anaconda.org/conda-forge/linux-64/multiprocess-0.70.11.1-py38h497a2fe_1.tar.bz2#4b8a29f0a6bdfc41b235355bbd5ae23b
@@ -180,6 +180,7 @@ https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/sentry-sdk-1.1.0-pyhd8ed1ab_0.tar.bz2#bc4ecb03f764db91c1788f0bea8a8cdb
+https://conda.anaconda.org/conda-forge/noarch/seqeval-1.2.2-pyhd3deb0d_0.tar.bz2#d4436c8a8b9fb6d60fe4e7b9f097f9bb
 https://conda.anaconda.org/huggingface/noarch/huggingface_hub-0.0.8-py_0.tar.bz2#732a860a5778e0e15dc8ae68288bc04a
 https://conda.anaconda.org/conda-forge/noarch/requests-oauthlib-1.3.0-pyh9f0ad1d_0.tar.bz2#acdcfb3267ef1a8e576e84480a5e259d
 https://conda.anaconda.org/conda-forge/noarch/wandb-0.10.30-pyhd8ed1ab_0.tar.bz2#6b0481201d97859a22d7b13ae0db271d
