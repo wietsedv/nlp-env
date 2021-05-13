@@ -6,6 +6,7 @@ dependencies:
   - scipy
   - toml
   - tqdm
+  - seqeval
 
   # Audio
   - dtw-python >=1.1
