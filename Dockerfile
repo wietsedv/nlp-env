@@ -1,3 +1,4 @@
+#syntax=docker/dockerfile:1.2
 FROM --platform=linux/amd64 condaforge/mambaforge:latest
 
 ENV PATH=/env/bin:${PATH}
