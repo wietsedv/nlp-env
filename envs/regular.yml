@@ -5,12 +5,13 @@ dependencies:
 
   # Base
   - matplotlib
+  - notebook
   - numba
   - numpy
   - pandas
   - pyyaml
-  - seqeval
   - scipy
+  - seqeval
   - toml
   - tqdm
 
