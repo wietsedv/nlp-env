@@ -1,11 +1,14 @@
-FROM --platform=linux/amd64 wietsedv/micromamba:latest
+FROM --platform=linux/amd64 condaforge/mambaforge:latest
+
+ENV PATH=/env/bin:${PATH}
+RUN sed -i "s#conda activate base#conda activate /env#" ~/.bashrc
 
 # Base
 COPY envs/base-linux-64.lock .
-RUN micromamba install -y -n base -f base-linux-64.lock --always-softlink && \
-    micromamba clean -y -a
+RUN mamba create -p /env --file base-linux-64.lock && \
+    mamba clean -afy
 
 # Regular
-COPY envs/regular-linux-64.lock .
-RUN micromamba install -y -n base -f regular-linux-64.lock --always-softlink && \
-    micromamba clean -y -a
+COPY envs/regular-linux-64-delta.lock .
+RUN mamba install -p /env --file regular-linux-64-delta.lock && \
+    mamba clean -afy

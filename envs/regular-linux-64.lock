@@ -58,7 +58,7 @@ https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.10-h21135ba_1.tar.bz2#c64
 https://conda.anaconda.org/conda-forge/linux-64/zstd-1.4.9-ha95c52a_0.tar.bz2#b481dc9fda3af2a681d08a4d5cd1ea0b
 https://conda.anaconda.org/conda-forge/linux-64/aws-c-io-0.9.12-h3dd054d_1.tar.bz2#e85bfe635e6790a3550b6502ebc73938
 https://conda.anaconda.org/conda-forge/linux-64/grpc-cpp-1.37.1-h36de60a_0.tar.bz2#a9d669b01509c9265a2be17394215d15
-https://conda.anaconda.org/conda-forge/linux-64/krb5-1.17.2-h926e7f8_0.tar.bz2#926325c11478d6e781e76072c117763b
+https://conda.anaconda.org/conda-forge/linux-64/krb5-1.19.1-hcc1bbae_0.tar.bz2#59b0695a515a6c54d45463dbf208ae38
 https://conda.anaconda.org/conda-forge/linux-64/libflac-1.3.3-h9c3ff4c_1.tar.bz2#0a69b4b5028310f42b0e44eb26384dfa
 https://conda.anaconda.org/conda-forge/linux-64/liblapacke-3.9.0-6_mkl.tar.bz2#d15804dd4e7f57b3b86f0fd400e3b6ed
 https://conda.anaconda.org/conda-forge/linux-64/libthrift-0.14.1-he6d91bd_1.tar.bz2#06001ffba0d76a710848132497e7dc6d
@@ -66,7 +66,7 @@ https://conda.anaconda.org/conda-forge/linux-64/orc-1.6.7-heec2584_1.tar.bz2#a5e
 https://conda.anaconda.org/conda-forge/linux-64/sqlite-3.35.5-h74cdb3f_0.tar.bz2#e876c82c21e7074d299e13762d02466c
 https://conda.anaconda.org/conda-forge/linux-64/aws-c-event-stream-0.2.7-h5011166_5.tar.bz2#254a7c2d87611792183f5f60a0c90d48
 https://conda.anaconda.org/conda-forge/linux-64/blas-2.106-mkl.tar.bz2#a180b9545d51e37f2d7d766f9f3121df
-https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.76.1-hc4aaa36_1.tar.bz2#349a288d04af695b639e5f947df3c2d0
+https://conda.anaconda.org/conda-forge/linux-64/libcurl-7.76.1-h2574ce0_2.tar.bz2#cc7097ea31a80337c2203c22f08d3f03
 https://conda.anaconda.org/conda-forge/linux-64/libsndfile-1.0.31-h9c3ff4c_1.tar.bz2#fc4b6d93da04731db7601f2a1b1dc96a
 https://conda.anaconda.org/conda-forge/linux-64/python-3.8.10-h49503c6_1_cpython.tar.bz2#69f7d6ef1f00c3a109b1b06279e6d6a9
 https://conda.anaconda.org/conda-forge/noarch/argh-0.26.2-pyh9f0ad1d_1002.tar.bz2#0af89261f0352895e1c1000d306b3dc7
@@ -142,7 +142,7 @@ https://conda.anaconda.org/conda-forge/linux-64/wrapt-1.12.1-py38h497a2fe_3.tar.
 https://conda.anaconda.org/conda-forge/linux-64/arrow-cpp-4.0.0-py38ha12db41_1_cpu.tar.bz2#236acacff1679d90bf35bb0e02cd9d58
 https://conda.anaconda.org/conda-forge/linux-64/brotlipy-0.7.0-py38h497a2fe_1001.tar.bz2#56753dd777a6517b34966ddcb39af734
 https://conda.anaconda.org/conda-forge/linux-64/cryptography-3.4.7-py38ha5dfef3_0.tar.bz2#a8b014aba670157256dabdc885f71af4
-https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.16-pyhd8ed1ab_0.tar.bz2#0f9b3b233c19f0da7903d74b16c3e2fc
+https://conda.anaconda.org/conda-forge/noarch/gitpython-3.1.17-pyhd8ed1ab_0.tar.bz2#915fe5706364d57cccb86f3ae76119a2
 https://conda.anaconda.org/conda-forge/noarch/gql-0.1.0-py_0.tar.bz2#94d26da1f3154571200e5ddfbdd7777c
 https://conda.anaconda.org/conda-forge/linux-64/h5py-2.10.0-nompi_py38h9915d05_106.tar.bz2#9288bbce72a38992fb0c47b771b0609b
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.0.1-hd8ed1ab_0.tar.bz2#50c48f1394fba9705a76163409924628
