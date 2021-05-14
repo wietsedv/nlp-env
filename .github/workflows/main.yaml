@@ -27,4 +27,4 @@ jobs:
           fi
           git add .
           git commit -m "update lock files [$(date --iso-8601)]"
-          git push origin main
+          git push origin $GITHUB_REF
