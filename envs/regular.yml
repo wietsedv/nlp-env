@@ -1,12 +1,18 @@
 dependencies:
+  # Dev
+  - yapf
+  - flake8
+
   # Base
+  - matplotlib
   - numba
+  - numpy
   - pandas
   - pyyaml
+  - seqeval
   - scipy
   - toml
   - tqdm
-  - seqeval
 
   # Audio
   - dtw-python >=1.1
