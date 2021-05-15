@@ -1,5 +1,5 @@
 # platform: osx-arm64
-# env_hash: c4c8857f32fafc0f53b7c465549a82f51c33728528bfd78a8d1af67076e71d34
+# env_hash: a60e9548d1902670cb5af2e03036e6c0a9a7daee6fb01c7ac2645b1563cbd2c3
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-common-0.5.11-h3422bc3_0.tar.bz2#a39bd305897c5c039522d58f4119cc33
 https://conda.anaconda.org/conda-forge/osx-arm64/bzip2-1.0.8-h3422bc3_4.tar.bz2#fc76ace7b94fb1f694988ab1b14dd248
@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/zstd-1.4.9-h5b28eab_0.tar.bz2#9
 https://conda.anaconda.org/conda-forge/osx-arm64/aws-c-io-0.9.12-h3b87e79_1.tar.bz2#fe99aa82120f999f398fe44faf6c5141
 https://conda.anaconda.org/conda-forge/osx-arm64/libcurl-7.76.1-h8fe1914_2.tar.bz2#fccd6cc282335cfb5baf84c485aeb5df
 https://conda.anaconda.org/conda-forge/osx-arm64/libflac-1.3.3-h9f76cd9_1.tar.bz2#ee181b72399f6c2a60cb9650162e260f
-https://conda.anaconda.org/conda-forge/osx-arm64/libopenblas-0.3.12-openmp_h2ecc587_1.tar.bz2#91c53b4976a00916215b2f5e289bc787
+https://conda.anaconda.org/conda-forge/osx-arm64/libopenblas-0.3.15-openmp_hf330de4_0.tar.bz2#48b3d723cc980f72f6d1b40210d985c7
 https://conda.anaconda.org/conda-forge/osx-arm64/libthrift-0.14.1-h49bbdef_1.tar.bz2#a196b4d1407374c05a74f9e6cb4b871a
 https://conda.anaconda.org/conda-forge/osx-arm64/libtiff-4.2.0-hcbb2f27_1.tar.bz2#8734421b58004fbad8eaed1650bf89e9
 https://conda.anaconda.org/conda-forge/osx-arm64/orc-1.6.7-h1603638_1.tar.bz2#b2dd4318941dea72ea965213f9375e9d
@@ -77,14 +77,14 @@ https://conda.anaconda.org/conda-forge/noarch/defusedxml-0.7.1-pyhd8ed1ab_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/dill-0.3.3-pyhd8ed1ab_0.tar.bz2#039cb23150fb851778f359dded1aba59
 https://conda.anaconda.org/conda-forge/noarch/entrypoints-0.3-pyhd8ed1ab_1003.tar.bz2#bbf9a201f6ce99a506f4955374d9a9f4
 https://conda.anaconda.org/conda-forge/noarch/filelock-3.0.12-pyh9f0ad1d_0.tar.bz2#7544ed05bbbe9bb687bc9bcbe4d6cb46
-https://conda.anaconda.org/conda-forge/noarch/fsspec-2021.4.0-pyhd8ed1ab_0.tar.bz2#7019316dafd6ef2e0a2fc178486993cd
+https://conda.anaconda.org/conda-forge/noarch/fsspec-2021.5.0-pyhd8ed1ab_0.tar.bz2#da823f51ebb876dafbed1c892fd80956
 https://conda.anaconda.org/conda-forge/noarch/gast-0.3.3-py_0.tar.bz2#05b99f1fd72a1f468b431b5d44b027b4
 https://conda.anaconda.org/conda-forge/noarch/graphql-core-3.1.4-pyhd8ed1ab_0.tar.bz2#77da22e46cf3349a0de02f592acbac46
 https://conda.anaconda.org/conda-forge/osx-arm64/hdf5-1.10.6-nompi_h0fc092c_1114.tar.bz2#3837020cc4816721a886d9e076b6d15f
 https://conda.anaconda.org/conda-forge/noarch/idna-2.10-pyh9f0ad1d_0.tar.bz2#f95a12b4f435aae6680fe55ae2eb1b06
 https://conda.anaconda.org/conda-forge/noarch/ipython_genutils-0.2.0-py_1.tar.bz2#5071c982548b3a20caf70462f04f5287
 https://conda.anaconda.org/conda-forge/osx-arm64/lcms2-2.12-had6a04f_0.tar.bz2#e66c48b683085eaa6627cc61ba76c1e2
-https://conda.anaconda.org/conda-forge/osx-arm64/libblas-3.9.0-6_openblas.tar.bz2#3dcd9993a77f655f8a9f94c8ae87dad8
+https://conda.anaconda.org/conda-forge/osx-arm64/libblas-3.9.0-9_openblas.tar.bz2#c78b94977931be2f17646bfd23956bb6
 https://conda.anaconda.org/conda-forge/osx-arm64/libsndfile-1.0.31-h9f76cd9_1.tar.bz2#94c0b4b68291f7df4b488096fcae35a6
 https://conda.anaconda.org/conda-forge/noarch/mccabe-0.6.1-py_1.tar.bz2#a326cb400c1ccd91789f3e7d02124d61
 https://conda.anaconda.org/conda-forge/noarch/nest-asyncio-1.5.1-pyhd8ed1ab_0.tar.bz2#47a51a5b8f9cc41004c8d7bd88b62447
@@ -140,8 +140,8 @@ https://conda.anaconda.org/conda-forge/noarch/google-pasta-0.2.0-pyh8c360ce_0.ta
 https://conda.anaconda.org/conda-forge/osx-arm64/importlib-metadata-4.0.1-py38h10201cd_0.tar.bz2#a7bdf1351fd7082d779625019d7beafc
 https://conda.anaconda.org/conda-forge/osx-arm64/jedi-0.18.0-py38h10201cd_2.tar.bz2#7b50b490567bbfb090e9cdbdd420075f
 https://conda.anaconda.org/conda-forge/osx-arm64/kiwisolver-1.3.1-py38h12a6f45_1.tar.bz2#e3316c1d84da707053b92933b9a9c8ac
-https://conda.anaconda.org/conda-forge/osx-arm64/libcblas-3.9.0-6_openblas.tar.bz2#1e28a4d079fde449504df600cdadd601
-https://conda.anaconda.org/conda-forge/osx-arm64/liblapack-3.9.0-6_openblas.tar.bz2#24802ec4dd10ecf7d65c9f5a7687b0bb
+https://conda.anaconda.org/conda-forge/osx-arm64/libcblas-3.9.0-9_openblas.tar.bz2#86730b9cb635e66ecfc6ed4fa07041b1
+https://conda.anaconda.org/conda-forge/osx-arm64/liblapack-3.9.0-9_openblas.tar.bz2#3896165894ba6fcc399ea52ec2ca5b2c
 https://conda.anaconda.org/conda-forge/osx-arm64/llvmlite-0.36.0-py38h57246dd_0.tar.bz2#7ea576bc6c03b2a6e3b87414e7a1b7a7
 https://conda.anaconda.org/conda-forge/osx-arm64/markupsafe-2.0.0-py38hea4295b_0.tar.bz2#1cb811b7da23d060606954cd8d2038a3
 https://conda.anaconda.org/conda-forge/osx-arm64/mistune-0.8.4-py38h30f7421_1003.tar.bz2#d6dad757f349829d258cad133e303069
@@ -176,7 +176,6 @@ https://conda.anaconda.org/conda-forge/noarch/gql-0.1.0-py_0.tar.bz2#94d26da1f31
 https://conda.anaconda.org/conda-forge/noarch/importlib_metadata-4.0.1-hd8ed1ab_0.tar.bz2#50c48f1394fba9705a76163409924628
 https://conda.anaconda.org/conda-forge/noarch/jinja2-3.0.0-pyhd8ed1ab_0.tar.bz2#51c50b861bdeb19564f01740e144c71a
 https://conda.anaconda.org/conda-forge/osx-arm64/jupyter_core-4.7.1-py38h10201cd_0.tar.bz2#a553d69c624bc591c8fd6639e32e6013
-https://conda.anaconda.org/conda-forge/osx-arm64/liblapacke-3.9.0-6_openblas.tar.bz2#88b798a4550953c9589713ca5db61232
 https://conda.anaconda.org/conda-forge/noarch/markdown-3.3.4-pyhd8ed1ab_0.tar.bz2#b8054f74fbed2b282f032219f114421a
 https://conda.anaconda.org/conda-forge/noarch/matplotlib-inline-0.1.2-pyhd8ed1ab_2.tar.bz2#0967e1db58b16e416464ca399f87df79
 https://conda.anaconda.org/conda-forge/osx-arm64/numpy-1.20.2-py38hbf7bb01_0.tar.bz2#5716706607da93e6d46ea69e745debcd
@@ -189,7 +188,6 @@ https://conda.anaconda.org/conda-forge/osx-arm64/yarl-1.6.3-py38h30f7421_1.tar.b
 https://conda.anaconda.org/conda-forge/osx-arm64/aiohttp-3.7.4-py38h30f7421_0.tar.bz2#02fad22ef03f7adc142e69312d02a0eb
 https://conda.anaconda.org/conda-forge/osx-arm64/arrow-cpp-4.0.0-py38h4950105_1_cpu.tar.bz2#c1dbacc80e27481b090f9e94e19eab7c
 https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.6.4-pyhd8ed1ab_0.tar.bz2#c5b3edc62d6309088f4970b3eaaa65a6
-https://conda.anaconda.org/conda-forge/osx-arm64/blas-2.106-openblas.tar.bz2#ea79ec1cdc7ff9baf49576e54eb55a6e
 https://conda.anaconda.org/conda-forge/noarch/bleach-3.3.0-pyh44b312d_0.tar.bz2#abf6b76c39358ca36ca706c46f054f2a
 https://conda.anaconda.org/conda-forge/noarch/flake8-3.9.2-pyhd8ed1ab_0.tar.bz2#37d685abea0a25c921431edda02ad143
 https://conda.anaconda.org/conda-forge/osx-arm64/grpcio-1.37.1-py38h69ee544_0.tar.bz2#943fb039ff914b13faf3913faa2ec499
