@@ -5,7 +5,6 @@ channels:
   - nvidia
   - conda-forge
 
-# TODO Add GitHub Action to update these pins
 dependencies:
   - python=3.8
 
@@ -22,8 +21,9 @@ dependencies:
   - tqdm
 
   # Dev
-  - yapf
+  - conda-lock
   - flake8
+  - yapf
 
   # Large Frameworks
   - pytorch=1.8
