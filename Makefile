@@ -1,5 +1,6 @@
 all:
 	make lock
+	make install
 	make build
 	make deploy
 
