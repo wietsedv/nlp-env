@@ -58,7 +58,7 @@ https://conda.anaconda.org/conda-forge/noarch/astunparse-1.6.3-pyhd8ed1ab_0.tar.
 https://conda.anaconda.org/conda-forge/osx-arm64/certifi-2020.12.5-py38h10201cd_1.tar.bz2#eb08cd2a41bb56ad506061afcd89485f
 https://conda.anaconda.org/conda-forge/osx-arm64/cffi-1.14.5-py38he62ddd7_0.tar.bz2#5eccd85a52ddfae8a6ee58c300337242
 https://conda.anaconda.org/conda-forge/osx-arm64/chardet-4.0.0-py38h10201cd_1.tar.bz2#353533efaf70f7d15a791bde11c7d50e
-https://conda.anaconda.org/conda-forge/osx-arm64/click-8.0.0-py38h10201cd_0.tar.bz2#07669e5e69bb93bcd44584f84b3a11ee
+https://conda.anaconda.org/conda-forge/osx-arm64/click-8.0.1-py38h10201cd_0.tar.bz2#76fd72e4768330f44377026b629b744e
 https://conda.anaconda.org/conda-forge/osx-arm64/future-0.18.2-py38h10201cd_3.tar.bz2#ddd2387450e508f8e66191c2e30fdd59
 https://conda.anaconda.org/conda-forge/noarch/google-pasta-0.2.0-pyh8c360ce_0.tar.bz2#26e27d7d3d7fe2336b543dd8e0f12cbf
 https://conda.anaconda.org/conda-forge/osx-arm64/importlib-metadata-4.0.1-py38h10201cd_0.tar.bz2#a7bdf1351fd7082d779625019d7beafc
@@ -69,7 +69,7 @@ https://conda.anaconda.org/conda-forge/noarch/pyasn1-modules-0.2.7-py_0.tar.bz2#
 https://conda.anaconda.org/conda-forge/osx-arm64/pysocks-1.7.1-py38h10201cd_3.tar.bz2#0218322562ae69afbd648bca6bcc7524
 https://conda.anaconda.org/conda-forge/noarch/rsa-4.7.2-pyh44b312d_0.tar.bz2#3452ab3790dbb1df9508b3fa4ea2f806
 https://conda.anaconda.org/conda-forge/noarch/typing-extensions-3.7.4.3-0.tar.bz2#36bdcdb4c2bf1efb987f2e9e80f4c9a6
-https://conda.anaconda.org/conda-forge/noarch/werkzeug-2.0.0-pyhd8ed1ab_0.tar.bz2#40c2f2363a51eb6940944a8cea77db24
+https://conda.anaconda.org/conda-forge/noarch/werkzeug-2.0.1-pyhd8ed1ab_0.tar.bz2#3b680fa0d39cccd009126087c6422fcc
 https://conda.anaconda.org/conda-forge/osx-arm64/wrapt-1.12.1-py38h30f7421_3.tar.bz2#fabdf222a157f0e3450c24ed923ddcfb
 https://conda.anaconda.org/conda-forge/osx-arm64/brotlipy-0.7.0-py38h30f7421_1001.tar.bz2#7c6514693de6186493d16a0dd9fa9832
 https://conda.anaconda.org/conda-forge/osx-arm64/cryptography-3.4.7-py38h3c0dae5_0.tar.bz2#cb54fd2e60e43b353e63a11326f497b4
