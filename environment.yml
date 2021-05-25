@@ -44,6 +44,7 @@ dependencies:
   - transformers >=4.5
 
   # Integration
-  - wandb >=0.10
+  - pynvml
   - tensorboardx >=2.2
+  - wandb >=0.10
 
