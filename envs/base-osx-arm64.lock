@@ -29,7 +29,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/libgfortran-5.0.0.dev0-11_0_1_h
 https://conda.anaconda.org/conda-forge/osx-arm64/libnghttp2-1.43.0-hf3018f0_0.tar.bz2#1a1622ea46f4a78cc4a5e88936d8571c
 https://conda.anaconda.org/conda-forge/osx-arm64/libssh2-1.9.0-hb80f160_6.tar.bz2#94ccb3816209218271e34e2ada324f88
 https://conda.anaconda.org/conda-forge/osx-arm64/sqlite-3.35.5-hc49ca36_0.tar.bz2#f7357f92c4a3799f14763cad1d605e64
-https://conda.anaconda.org/conda-forge/osx-arm64/libcurl-7.76.1-h8fe1914_2.tar.bz2#fccd6cc282335cfb5baf84c485aeb5df
+https://conda.anaconda.org/conda-forge/osx-arm64/libcurl-7.77.0-h8fe1914_0.tar.bz2#b79aeb2d6d1fe5277321173a604ede2c
 https://conda.anaconda.org/conda-forge/osx-arm64/libopenblas-0.3.12-openmp_h2ecc587_1.tar.bz2#91c53b4976a00916215b2f5e289bc787
 https://conda.anaconda.org/conda-forge/osx-arm64/python-3.8.10-hf9733c0_1_cpython.tar.bz2#921786bb4c3938ef2d7807f34656bdde
 https://conda.anaconda.org/conda-forge/noarch/astor-0.8.1-pyh9f0ad1d_0.tar.bz2#6ae770689be59dc391ef974d2e849b56
@@ -61,7 +61,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/chardet-4.0.0-py38h10201cd_1.ta
 https://conda.anaconda.org/conda-forge/osx-arm64/click-8.0.1-py38h10201cd_0.tar.bz2#76fd72e4768330f44377026b629b744e
 https://conda.anaconda.org/conda-forge/osx-arm64/future-0.18.2-py38h10201cd_3.tar.bz2#ddd2387450e508f8e66191c2e30fdd59
 https://conda.anaconda.org/conda-forge/noarch/google-pasta-0.2.0-pyh8c360ce_0.tar.bz2#26e27d7d3d7fe2336b543dd8e0f12cbf
-https://conda.anaconda.org/conda-forge/osx-arm64/importlib-metadata-4.0.1-py38h10201cd_0.tar.bz2#a7bdf1351fd7082d779625019d7beafc
+https://conda.anaconda.org/conda-forge/osx-arm64/importlib-metadata-4.3.1-py38h10201cd_0.tar.bz2#385f29be23a979fe4e0e9ca459968706
 https://conda.anaconda.org/conda-forge/osx-arm64/libcblas-3.9.0-6_openblas.tar.bz2#1e28a4d079fde449504df600cdadd601
 https://conda.anaconda.org/conda-forge/osx-arm64/liblapack-3.9.0-6_openblas.tar.bz2#24802ec4dd10ecf7d65c9f5a7687b0bb
 https://conda.anaconda.org/conda-forge/osx-arm64/multidict-5.1.0-py38h30f7421_1.tar.bz2#af233801cbbbce2ab8bdde90fa1b94a4
@@ -90,7 +90,7 @@ https://conda.anaconda.org/conda-forge/osx-arm64/scipy-1.6.3-py38hd0c9ec0_0.tar.
 https://conda.anaconda.org/conda-forge/noarch/google-auth-1.30.0-pyh44b312d_0.tar.bz2#6bfc2b6ab5e47c4e57355e511fab4bfb
 https://conda.anaconda.org/conda-forge/noarch/keras-preprocessing-1.1.2-pyhd8ed1ab_0.tar.bz2#a79b00989a0d89791021902f37fe2f9e
 https://conda.anaconda.org/conda-forge/noarch/tensorflow-estimator-2.4.0-pyh9656e83_0.tar.bz2#ede99bb6f017060400f03a8a29574524
-https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.4-pyhd8ed1ab_0.tar.bz2#d7b20b328e23d993994ea02077c009c0
+https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.5-pyhd8ed1ab_0.tar.bz2#36f0ca66d6dd09423e5c2551148d45cd
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/wietsedv/osx-arm64/pytorch-1.8.0-py38_0.tar.bz2#04b1e891fc087b14194819ecffa760a3
 https://conda.anaconda.org/conda-forge/noarch/requests-oauthlib-1.3.0-pyh9f0ad1d_0.tar.bz2#acdcfb3267ef1a8e576e84480a5e259d
